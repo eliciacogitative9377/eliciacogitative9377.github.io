@@ -1,15 +1,23 @@
 {
   "headline": "Mi Primer Servidor MSX",
-  "items": [
+  "menu": [
     {
-      "label": "PlutoTV",
-      "icon": "https://losg76369.github.io/41+C5TFE3kL.png",
-      "action": "link:https://pluto.tv/latam/home/"
-    },
-    {
-      "label": "CineCalidad",
-      "icon": "https://losg76369.github.io/unnamed.jpg",
-      "action": "link:https://sololatino.net/"
+      "label": "Inicio",
+      "icon": "home",
+      "data": {
+        "items": [
+          {
+            "label": "PlutoTV",
+            "icon": "https://losg76369.github.io/41+C5TFE3kL.png",
+            "action": "link:https://pluto.tv/latam/home/"
+          },
+          {
+            "label": "CineCalidad",
+            "icon": "https://losg76369.github.io/unnamed.jpg",
+            "action": "link:https://sololatino.net/"
+          }
+        ]
+      }
     }
   ]
 }
